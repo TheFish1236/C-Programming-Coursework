@@ -1,3 +1,5 @@
+// This is a game I created to help my girlfriend memorize the menu at her new job in preparation for her interview.
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -68,4 +70,5 @@ int main() {
         scanf("%d", &run);
     }
     return 0;
+
 }
